@@ -4,7 +4,7 @@
 ## Overview
 
 This project implements a secure file storage system using **Blockchain** and **IPFS**.
-Files are stored in a decentralized network, and each file generates a unique **Content Identifier (CID)** which is used for secure retrieval.
+Files are stored in a decentralized network,uses cryptographoc techniques such as  each file generates a unique **hash id** which is used for secure retrieval.
 
 ## Features
 
